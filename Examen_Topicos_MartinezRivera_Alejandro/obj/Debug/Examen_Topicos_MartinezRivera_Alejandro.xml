@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Examen_Topicos_MartinezRivera_Alejandro
+</name>
+</assembly>
+<members>
+<member name="T:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Bloques_destruidos">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Cursor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.game_over">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.GameOver">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Ganador">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Pelota">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Rojo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.Verde">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Examen_Topicos_MartinezRivera_Alejandro.My.Resources.Resources.YouWin">
+<summary>
+  Busca un recurso adaptado de tipo System.IO.UnmanagedMemoryStream similar a System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
